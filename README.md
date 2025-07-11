@@ -24,8 +24,6 @@ Passionate researcher exploring the frontiers of knowledge 🔬
 
 ## 🌟 Current Focus
 
-> *"Research is to see what everybody else has seen, and to think what nobody else has thought."* - Albert Szent-Györgyi
-
 I'm currently focused on precise coloring of large-scale point cloud maps and rapid hazard reporting based on Apriltag.
 
 ---
