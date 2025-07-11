@@ -4,7 +4,7 @@ Hi there! 👋 I'm Zhiyu Zhou
 
 （2024.9-2029.6）<img width="50" height="20" alt="image" src="https://github.com/user-attachments/assets/a51970d8-15b4-4776-bb13-be60df211702" /> **PhD Candidate** at **Wuhan University** focusing on **Muti-sensor based robotic perception and localization.** 
 
-（2025.6-2025.9）<img width="100" height="20" alt="image" src="https://github.com/user-attachments/assets/e56acdce-bbf0-4ee9-b851-549245bb024a" /> **SLAM Engineer Intern** at **AgiBot**, working on ...
+（2025.6-2025.9）<img width="100" height="20" alt="image" src="https://github.com/user-attachments/assets/e56acdce-bbf0-4ee9-b851-549245bb024a" /> **SLAM Engineer Intern** at **AgiBot**, working on Design of INEKF based LiDAR-IMU-DR-SLAM
 
 - 🌱 Currently pursuing my doctoral degree at Wuhan University
 - 📧 Reach me at: [zhouzhiyuwhu@whu.edu.cn](mailto:zhouzhiyuwhu@whu.edu.cn)
