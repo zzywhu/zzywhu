@@ -1,7 +1,8 @@
-# Hi there! 👋 I'm Zhiyu Zhou
+<img width="698" height="698" alt="image" src="https://github.com/user-attachments/assets/0b5a44f5-3c6a-43fc-a707-5a08d0658392" /># Hi there! 👋 I'm Zhiyu Zhou
 
 ## 🎓 About Me
 
+<img width="698" height="698" alt="image" src="https://github.com/user-attachments/assets/b5f10f6d-9502-4a94-9509-79e24877fd01" />
 **PhD Candidate** at **Wuhan University** 
 
 **SLAM Engineer Intern** at **AgiBot**, working on ...
@@ -15,8 +16,8 @@
 
 <!-- 您可以根据实际研究方向修改这部分 -->
 - 🤖 Robust Pose Estimation based on Multi-sensor Fusion
-- 📊 Mapping based on Multi-sensor Fusion
-- 🔍 Multi-sensor Calibration
+- 🤖 Mapping based on Multi-sensor Fusion
+- 🤖 Multi-sensor Calibration
 
 ## 🌟 Current Focus
 
