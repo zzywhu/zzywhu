@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋 I'm Zhiyu Zhou
 
-<!--
-**zzywhu/zzywhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+**PhD Candidate** at **Wuhan University** 🏫  
+Passionate researcher exploring the frontiers of knowledge 🔬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently pursuing my doctoral degree at Wuhan University
+- 📧 Reach me at: [zhouzhiyuwhu@whu.edu.cn](mailto:zhouzhiyuwhu@whu.edu.cn)
+- 💡 Always eager to collaborate on innovative research projects
+- 🌍 Open to academic exchanges and international collaborations
+
+## 🔬 Research Interests        
+
+<!-- 您可以根据实际研究方向修改这部分 -->
+- 🤖 Robust Pose Estimation based on Multi-sensor Fusion
+- 📊 Mapping based on Multi-sensor Fusion
+- 🔍 Multi-sensor Calibration
+
+## 🤝 Let's Connect!
+
+- 📫 **Email**: [zhouzhiyuwhu@whu.edu.cn](mailto:zhouzhiyuwhu@whu.edu.cn)
+- 🏫 **Institution**: Wuhan University
+
+## 🌟 Current Focus
+
+> *"Research is to see what everybody else has seen, and to think what nobody else has thought."* - Albert Szent-Györgyi
+
+I'm currently focused on precise coloring of large-scale point cloud maps and rapid hazard reporting based on Apriltag.
+
+---
+
+⭐️ **From [zzywhu](https://github.com/zzywhu)** - Thank you for visiting my profile!
