@@ -2,7 +2,7 @@ Hi there! 👋 I'm Zhiyu Zhou
 
 ## 🎓 About Me
 
-<img width="245" height="78" alt="image" src="https://github.com/user-attachments/assets/a51970d8-15b4-4776-bb13-be60df211702" /> **PhD Candidate** at **Wuhan University** 
+<img width="100" height="20" alt="image" src="https://github.com/user-attachments/assets/a51970d8-15b4-4776-bb13-be60df211702" /> **PhD Candidate** at **Wuhan University** 
 
 **SLAM Engineer Intern** at **AgiBot**, working on ...
 
