@@ -4,7 +4,7 @@ Hi there! 👋 I'm Zhiyu Zhou
 
 <img width="50" height="20" alt="image" src="https://github.com/user-attachments/assets/a51970d8-15b4-4776-bb13-be60df211702" /> **PhD Candidate** at **Wuhan University** 
 
-**SLAM Engineer Intern** at **AgiBot**, working on ...
+<img width="254" height="67" alt="image" src="https://github.com/user-attachments/assets/e56acdce-bbf0-4ee9-b851-549245bb024a" /> **SLAM Engineer Intern** at **AgiBot**, working on ...
 
 - 🌱 Currently pursuing my doctoral degree at Wuhan University
 - 📧 Reach me at: [zhouzhiyuwhu@whu.edu.cn](mailto:zhouzhiyuwhu@whu.edu.cn)
