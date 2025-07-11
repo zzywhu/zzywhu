@@ -18,11 +18,6 @@
 - 📊 Mapping based on Multi-sensor Fusion
 - 🔍 Multi-sensor Calibration
 
-## 🤝 Let's Connect!
-
-- 📫 **Email**: [zhouzhiyuwhu@whu.edu.cn](mailto:zhouzhiyuwhu@whu.edu.cn)
-- 🏫 **Institution**: Wuhan University
-
 ## 🌟 Current Focus
 
 I'm currently focused on precise coloring of large-scale point cloud maps and rapid hazard reporting based on Apriltag.
