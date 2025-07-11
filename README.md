@@ -4,7 +4,7 @@
 
 **PhD Candidate** at **Wuhan University** 
 
-**SLAM Engineer Intern** at AgiBot, working on ...
+**SLAM Engineer Intern** at **AgiBot**, working on ...
 
 - 🌱 Currently pursuing my doctoral degree at Wuhan University
 - 📧 Reach me at: [zhouzhiyuwhu@whu.edu.cn](mailto:zhouzhiyuwhu@whu.edu.cn)
