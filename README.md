@@ -22,6 +22,4 @@ Hi there! 👋 I'm Zhiyu Zhou
 
 I'm currently focused on precise coloring of large-scale point cloud maps and rapid hazard reporting based on Apriltag.
 
----
-
-⭐️ **From [zzywhu](https://github.com/zzywhu)** - Thank you for visiting my profile!
+## 📔 Publist
