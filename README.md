@@ -7,7 +7,7 @@ Hi there! 👋 I'm Zhiyu Zhou
 （2025.6-2025.9）<img width="100" height="20" alt="image" src="https://github.com/user-attachments/assets/e56acdce-bbf0-4ee9-b851-549245bb024a" /> **SLAM Engineer Intern** at **AgiBot**, working on Design of INEKF based LiDAR-IMU-DR-SLAM
 
 - 🌱 Currently pursuing my doctoral degree at Wuhan University
-- 📧 Reach me at: [zhouzhiyuwhu@whu.edu.cn](mailto:zhouzhiyuwhu@whu.edu.cn)
+- 📧 Reach me at: [zhouzhiyuwhu@whu.edu.cn]
 - 💡 Always eager to collaborate on innovative research projects
 - 🌍 Open to academic exchanges and international collaborations
 
