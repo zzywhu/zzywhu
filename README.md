@@ -3,8 +3,8 @@
 ## 🎓 About Me
 
 **PhD Candidate** at **Wuhan University** 
+
 **SLAM Engineer Intern** at AgiBot, working on ...
-Passionate researcher exploring the frontiers of knowledge 🔬
 
 - 🌱 Currently pursuing my doctoral degree at Wuhan University
 - 📧 Reach me at: [zhouzhiyuwhu@whu.edu.cn](mailto:zhouzhiyuwhu@whu.edu.cn)
