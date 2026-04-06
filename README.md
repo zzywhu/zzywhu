@@ -21,5 +21,4 @@ Hi there! 👋 I'm Zhiyu Zhou
 ## 📔 Publist
 [1] Z. Zhou, Z. Gao, and J. Xu, “Tracking by Detection: Robust Indoor RGB-D Odometry Leveraging Key Local Manhattan World,” IEEE Robot. Autom. Lett., vol. 9, no. 6, pp. 4990–4997, Jun. 2024, doi: 10.1109/LRA.2024.3387128.
 
-[2] 周志宇 et al., “小样本条件下的公路建设项目场景识别与安全预警,” 江汉大学学报(自然科学版), vol. 52, no. 1, pp. 80–90, 2024, doi: 10.16389/j.cnki.cn42-1737/n.2024.01.009.
 
